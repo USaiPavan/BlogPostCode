@@ -1,0 +1,6 @@
+F:\MyProjects\Git\BlogPostCode\BlogPostCode\bin\Debug\BlogPostCode.exe.config
+F:\MyProjects\Git\BlogPostCode\BlogPostCode\bin\Debug\BlogPostCode.exe
+F:\MyProjects\Git\BlogPostCode\BlogPostCode\bin\Debug\BlogPostCode.pdb
+F:\MyProjects\Git\BlogPostCode\BlogPostCode\obj\Debug\BlogPostCode.csprojResolveAssemblyReference.cache
+F:\MyProjects\Git\BlogPostCode\BlogPostCode\obj\Debug\BlogPostCode.exe
+F:\MyProjects\Git\BlogPostCode\BlogPostCode\obj\Debug\BlogPostCode.pdb
